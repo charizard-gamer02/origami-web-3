@@ -1,0 +1,39 @@
+h1{
+    color: blue}
+.header{
+    background-color: orange  ;
+display:flex ;
+justify-content : space-between;
+}
+.menu{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: 
+    space-between;
+    padding: 15px;
+}
+body{
+    
+    background-color:lightblue;
+    font:bold ;
+    margin: 25px;
+}
+.rows {
+    display: flex;
+    flex-direction:rows;
+    flex-basis: 100%;
+    flex: 1;
+  }
+  *{
+      border: solid;
+  }
+  .lol1{
+      margin: 20px;
+  }
+  .lol2{
+    margin: 20px;
+}
+.lol3{
+    margin: 20px;
+    background: #ffffff;;
+}
